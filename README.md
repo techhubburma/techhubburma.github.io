@@ -1,6 +1,6 @@
 # techhubburma.github.io
 # Hi
-<!doctype html>
+#<!doctype html>
 <html lang="en">
 <head>
 <title>Tech - Hub</title>
